@@ -1,0 +1,4 @@
+El presente trabajo pretende describir la arquitectura OpenRISC, 1200 para esto se realizó una investigación bibliográfica de la documentación existente para el mismo. Además se  utilizó un contenedor que contiene las herramientas para poder compilar y simular
+para la arquitectura OpenRISC 1200.
+Se implementó un programa en el lenguaje de alto nivel \textbf{C} y se desensambló para analizar las instrucciones generadas.
+El repositorio con toda la implementación realizada se puede encontrar en la dirección web https://github.com/EmanuelHC/ie0521-t3
